@@ -1,0 +1,4 @@
+Christian Rodriguez Christian.rodriguez73@upr.edu
+Q: What can you observe from the printouts of the threads on the terminal?
+A: I can see that the program starts then it individually creates the number of threads that I inputted into the terminal. 
+It does this the main has done its job and it starts to run the threads in a random order.
